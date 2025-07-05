@@ -1,2 +1,2 @@
 # Edge_caching_using_FL
-An optimization-based approach to select devices for federated learning under system constraints. Supports data offloading and content popularity prediction to improve edge caching efficiency.
+This project explores an optimization framework for improving content caching in edge networks using Federated Learning (FL). It focuses on selecting a subset of edge devices for FL participation based on their resource availability, while enabling data offloading from non-selected devices to enhance training diversity and caching performance. The system balances latency, energy, and storage constraints, and integrates a content popularity prediction model for smarter edge caching.
